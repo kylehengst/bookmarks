@@ -2,3 +2,4 @@
 - https://www.namebase.io/
 - https://handshake.org/
 - https://blokdots.com/
+- https://chrisbateman.github.io/webpack-visualizer/
