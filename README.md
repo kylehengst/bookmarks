@@ -3,3 +3,4 @@
 - https://handshake.org/
 - https://blokdots.com/
 - https://chrisbateman.github.io/webpack-visualizer/
+- https://icanhazdadjoke.com/
