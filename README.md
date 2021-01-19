@@ -13,3 +13,4 @@
 - https://tympanus.net/Tutorials/GooeyImageHoverEffects/
 - https://psxparty.kosmi.io/
 - https://peerjs.com/
+- https://shuffle.dev/
