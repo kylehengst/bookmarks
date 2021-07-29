@@ -24,3 +24,7 @@
 - https://reactflow.dev/
 - https://threejs-journey.xyz/
 - https://github.com/supabase/realtime
+
+# hacker news
+
+- https://news.ycombinator.com/item?id=27991120 - calculus made easy
