@@ -24,6 +24,7 @@
 - https://reactflow.dev/
 - https://threejs-journey.xyz/
 - https://github.com/supabase/realtime
+- https://kitbash3d.com/
 
 # hacker news
 
