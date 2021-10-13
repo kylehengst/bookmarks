@@ -31,6 +31,7 @@
 - https://news.ycombinator.com/item?id=27991120 - calculus made easy
 - https://news.ycombinator.com/item?id=28478603 - youtube-dl
 - https://news.ycombinator.com/item?id=28808376 - share files
+- https://news.ycombinator.com/item?id=28837181 - typescript
 
 # Projects
 
