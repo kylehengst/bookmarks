@@ -35,6 +35,9 @@
 - https://news.ycombinator.com/item?id=28808376 - share files
 - https://news.ycombinator.com/item?id=28837181 - typescript
 
-# Projects
+# Blender
 
 - https://github.com/JoeWDavies/geoblender
+- https://sketchfab.com/
+- https://www.graswald3d.com/gscatter
+- https://abaga.gumroad.com/l/ivygen
