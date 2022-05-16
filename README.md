@@ -27,6 +27,7 @@
 - https://kitbash3d.com/
 - https://google.github.io/mediapipe/ - image tracking
 - https://github.com/yeemachine/kalidokit - image tracking
+- https://javascript.info/
 
 # hacker news
 
