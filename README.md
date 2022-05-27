@@ -36,6 +36,7 @@
 - https://news.ycombinator.com/item?id=28808376 - share files
 - https://news.ycombinator.com/item?id=28837181 - typescript
 - https://news.ycombinator.com/item?id=30506413 - f-droid
+- https://news.ycombinator.com/item?id=31532199 - knots
 
 # Blender
 
